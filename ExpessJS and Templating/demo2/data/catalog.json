@@ -1,0 +1,37 @@
+[
+    {
+      "id": "1",
+      "name": "Air Filter",
+      "description": "A high-quality air filter that ensures clean air intake for your engine, enhancing performance and efficiency.",
+      "price": 19.99,
+      "stock": 5
+    },
+    {
+      "id": "2",
+      "name": "Brake Pads",
+      "description": "Durable brake pads designed for optimal stopping power and long-lasting performance under all driving conditions.",
+      "price": 45.50,
+      "stock": 0
+    },
+    {
+      "id": "3",
+      "name": "Spark Plug",
+      "description": "Premium spark plug that provides reliable ignition and improved fuel efficiency, suitable for a wide range of vehicles.",
+      "price": 9.75,
+      "stock": 12
+    },
+    {
+      "id": "4",
+      "name": "Oil Filter",
+      "description": "High-performance oil filter that keeps your engine oil clean, prolonging engine life and improving performance.",
+      "price": 12.99,
+      "stock": 4
+    },
+    {
+      "id": "5",
+      "name": "Headlight Bulb",
+      "description": "Bright and durable headlight bulb that enhances nighttime visibility and ensures safety on the road.",
+      "price": 15.30,
+      "stock": 1
+    }
+  ]
